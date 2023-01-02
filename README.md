@@ -1,6 +1,6 @@
-# Project 5 - Word scramble
-   Word scramble app
-https://www.hackingwithswift.com/100/27
+# Words scramble. Haking With Swift
+Create an anagram game while learning about closures and booleans.
+
 
 ## Topics
 
